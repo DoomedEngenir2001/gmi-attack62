@@ -1,0 +1,247 @@
+---------------------Training [%s]------------------------------
+Epoch:0 	 Time:220.49
+Epoch:1 	 Time:219.72
+Epoch:2 	 Time:220.14
+Epoch:3 	 Time:225.74
+Epoch:4 	 Time:222.64
+Epoch:5 	 Time:220.23
+Epoch:6 	 Time:219.84
+Epoch:7 	 Time:220.29
+Epoch:8 	 Time:217.65
+Epoch:9 	 Time:220.00
+Epoch:10 	 Time:216.55
+Epoch:11 	 Time:218.29
+Epoch:12 	 Time:219.80
+Epoch:13 	 Time:26494.66
+Epoch:14 	 Time:223.79
+Epoch:15 	 Time:225.67
+Epoch:16 	 Time:222.55
+Epoch:17 	 Time:222.30
+Epoch:18 	 Time:222.65
+Epoch:19 	 Time:218.57
+Epoch:20 	 Time:225.86
+Epoch:21 	 Time:219.94
+Epoch:22 	 Time:219.06
+Epoch:23 	 Time:218.22
+Epoch:24 	 Time:53130.73
+Epoch:0 	 Time:65.21
+Epoch:1 	 Time:65.34
+Epoch:2 	 Time:65.06
+Epoch:3 	 Time:63.45
+Epoch:4 	 Time:63.51
+Epoch:5 	 Time:64.61
+Epoch:6 	 Time:64.54
+Epoch:7 	 Time:65.12
+Epoch:8 	 Time:65.16
+Epoch:9 	 Time:64.67
+Epoch:10 	 Time:65.54
+Epoch:11 	 Time:67.49
+Epoch:12 	 Time:63.55
+Epoch:13 	 Time:63.10
+Epoch:14 	 Time:62.99
+Epoch:15 	 Time:64.02
+Epoch:16 	 Time:64.13
+Epoch:17 	 Time:63.14
+Epoch:18 	 Time:62.94
+Epoch:19 	 Time:63.24
+Epoch:20 	 Time:62.82
+Epoch:21 	 Time:63.67
+Epoch:22 	 Time:64.95
+Epoch:23 	 Time:64.29
+Epoch:24 	 Time:65.66
+Epoch:25 	 Time:64.88
+Epoch:26 	 Time:67.24
+Epoch:27 	 Time:64.40
+Epoch:28 	 Time:64.90
+Epoch:29 	 Time:65.34
+Epoch:30 	 Time:64.46
+Epoch:31 	 Time:63.60
+Epoch:32 	 Time:62.94
+Epoch:33 	 Time:63.03
+Epoch:34 	 Time:62.50
+Epoch:35 	 Time:65.57
+Epoch:36 	 Time:72.61
+Epoch:37 	 Time:64.81
+Epoch:38 	 Time:66.44
+Epoch:39 	 Time:65.99
+Epoch:40 	 Time:65.73
+Epoch:41 	 Time:65.50
+Epoch:42 	 Time:66.17
+Epoch:43 	 Time:65.84
+Epoch:44 	 Time:65.88
+Epoch:45 	 Time:65.74
+Epoch:46 	 Time:65.94
+Epoch:47 	 Time:67.02
+Epoch:48 	 Time:64.58
+Epoch:49 	 Time:64.97
+Epoch:50 	 Time:64.91
+Epoch:51 	 Time:64.57
+Epoch:52 	 Time:64.76
+Epoch:53 	 Time:66.66
+Epoch:54 	 Time:64.42
+Epoch:55 	 Time:64.66
+Epoch:56 	 Time:64.87
+Epoch:57 	 Time:64.85
+Epoch:58 	 Time:64.45
+Epoch:59 	 Time:64.67
+Epoch:60 	 Time:64.51
+Epoch:61 	 Time:64.80
+Epoch:62 	 Time:63.89
+Epoch:63 	 Time:63.71
+Epoch:64 	 Time:63.91
+Epoch:65 	 Time:63.56
+Epoch:66 	 Time:63.47
+Epoch:67 	 Time:64.10
+Epoch:68 	 Time:65.58
+Epoch:69 	 Time:64.77
+Epoch:70 	 Time:65.53
+Epoch:71 	 Time:64.94
+Epoch:72 	 Time:64.54
+Epoch:73 	 Time:64.88
+Epoch:74 	 Time:65.01
+Epoch:75 	 Time:65.36
+Epoch:76 	 Time:65.09
+Epoch:77 	 Time:65.01
+Epoch:78 	 Time:64.78
+Epoch:79 	 Time:65.19
+Epoch:80 	 Time:65.41
+Epoch:81 	 Time:67.52
+Epoch:82 	 Time:64.51
+Epoch:83 	 Time:64.41
+Epoch:84 	 Time:65.77
+Epoch:85 	 Time:78.21
+Epoch:86 	 Time:63.97
+Epoch:87 	 Time:63.63
+Epoch:88 	 Time:65.06
+Epoch:89 	 Time:78.06
+Epoch:90 	 Time:65.60
+Epoch:91 	 Time:71.21
+Epoch:92 	 Time:64.59
+Epoch:93 	 Time:65.09
+Epoch:94 	 Time:65.21
+Epoch:95 	 Time:63.27
+Epoch:96 	 Time:64.21
+Epoch:97 	 Time:69.55
+Epoch:98 	 Time:68.30
+Epoch:99 	 Time:70.99
+Sucessfully target trained
+ Volume in drive C has no label.
+ Volume Serial Number is 8C8C-6E14
+
+ Directory of C:\gmi_attack\Jupiter\projects\GMI
+
+16.10.2023  23:41    <DIR>          .
+16.10.2023  23:41    <DIR>          ..
+15.10.2023  19:59    <DIR>          .ipynb_checkpoints
+02.05.2021  21:06             3 230 attack.py
+15.10.2023  16:54    <DIR>          background
+15.10.2023  20:19             2 299 classify.py
+15.10.2023  16:42             2 280 classify.py.bak
+14.10.2023  23:52             2 053 dataloader.py
+14.10.2023  22:44               992 discri.py
+14.10.2023  22:44               959 generator.py
+15.10.2023  20:03             3 061 gmi_attack.ipynb
+16.10.2023  23:41            63 211 GMI_demo.ipynb
+15.10.2023  00:41               445 MNIST.json
+15.10.2023  19:28    <DIR>          results
+14.10.2023  21:35             1 323 run_jupyter_notebook.lnk
+02.05.2021  21:06             4 087 utils.py
+15.10.2023  20:20    <DIR>          __pycache__
+              11 File(s)         83 940 bytes
+               6 Dir(s)  527 354 224 640 bytes free
+ Volume in drive C has no label.
+ Volume Serial Number is 8C8C-6E14
+
+ Directory of C:\gmi_attack\Jupiter\projects\GMI
+
+16.10.2023  23:41    <DIR>          .
+16.10.2023  23:41    <DIR>          ..
+15.10.2023  19:59    <DIR>          .ipynb_checkpoints
+02.05.2021  21:06             3 230 attack.py
+15.10.2023  16:54    <DIR>          background
+15.10.2023  20:19             2 299 classify.py
+15.10.2023  16:42             2 280 classify.py.bak
+14.10.2023  23:52             2 053 dataloader.py
+14.10.2023  22:44               992 discri.py
+14.10.2023  22:44               959 generator.py
+15.10.2023  20:03             3 061 gmi_attack.ipynb
+16.10.2023  23:41            63 211 GMI_demo.ipynb
+15.10.2023  00:41               445 MNIST.json
+15.10.2023  19:28    <DIR>          results
+14.10.2023  21:35             1 323 run_jupyter_notebook.lnk
+02.05.2021  21:06             4 087 utils.py
+15.10.2023  20:20    <DIR>          __pycache__
+              11 File(s)         83 940 bytes
+               6 Dir(s)  527 354 224 640 bytes free
+ Volume in drive C has no label.
+ Volume Serial Number is 8C8C-6E14
+
+ Directory of C:\gmi_attack\Jupiter\projects\GMI
+
+16.10.2023  23:41    <DIR>          .
+16.10.2023  23:41    <DIR>          ..
+15.10.2023  19:59    <DIR>          .ipynb_checkpoints
+02.05.2021  21:06             3 230 attack.py
+15.10.2023  16:54    <DIR>          background
+15.10.2023  20:19             2 299 classify.py
+15.10.2023  16:42             2 280 classify.py.bak
+14.10.2023  23:52             2 053 dataloader.py
+14.10.2023  22:44               992 discri.py
+14.10.2023  22:44               959 generator.py
+15.10.2023  20:03             3 061 gmi_attack.ipynb
+16.10.2023  23:41            63 211 GMI_demo.ipynb
+15.10.2023  00:41               445 MNIST.json
+15.10.2023  19:28    <DIR>          results
+14.10.2023  21:35             1 323 run_jupyter_notebook.lnk
+02.05.2021  21:06             4 087 utils.py
+15.10.2023  20:20    <DIR>          __pycache__
+              11 File(s)         83 940 bytes
+               6 Dir(s)  527 354 228 736 bytes free
+ Volume in drive C has no label.
+ Volume Serial Number is 8C8C-6E14
+
+ Directory of C:\gmi_attack\Jupiter\projects\GMI
+
+16.10.2023  23:41    <DIR>          .
+16.10.2023  23:41    <DIR>          ..
+15.10.2023  19:59    <DIR>          .ipynb_checkpoints
+02.05.2021  21:06             3 230 attack.py
+15.10.2023  16:54    <DIR>          background
+15.10.2023  20:19             2 299 classify.py
+15.10.2023  16:42             2 280 classify.py.bak
+14.10.2023  23:52             2 053 dataloader.py
+14.10.2023  22:44               992 discri.py
+14.10.2023  22:44               959 generator.py
+15.10.2023  20:03             3 061 gmi_attack.ipynb
+16.10.2023  23:41            63 211 GMI_demo.ipynb
+15.10.2023  00:41               445 MNIST.json
+15.10.2023  19:28    <DIR>          results
+14.10.2023  21:35             1 323 run_jupyter_notebook.lnk
+02.05.2021  21:06             4 087 utils.py
+15.10.2023  20:20    <DIR>          __pycache__
+              11 File(s)         83 940 bytes
+               6 Dir(s)  527 354 146 816 bytes free
+ Volume in drive C has no label.
+ Volume Serial Number is 8C8C-6E14
+
+ Directory of C:\gmi_attack\Jupiter\projects\GMI
+
+16.10.2023  23:41    <DIR>          .
+16.10.2023  23:41    <DIR>          ..
+15.10.2023  19:59    <DIR>          .ipynb_checkpoints
+02.05.2021  21:06             3 230 attack.py
+15.10.2023  16:54    <DIR>          background
+15.10.2023  20:19             2 299 classify.py
+15.10.2023  16:42             2 280 classify.py.bak
+14.10.2023  23:52             2 053 dataloader.py
+14.10.2023  22:44               992 discri.py
+14.10.2023  22:44               959 generator.py
+15.10.2023  20:03             3 061 gmi_attack.ipynb
+16.10.2023  23:41            63 211 GMI_demo.ipynb
+15.10.2023  00:41               445 MNIST.json
+15.10.2023  19:28    <DIR>          results
+14.10.2023  21:35             1 323 run_jupyter_notebook.lnk
+02.05.2021  21:06             4 087 utils.py
+15.10.2023  20:20    <DIR>          __pycache__
+              11 File(s)         83 940 bytes
+               6 Dir(s)  527 354 146 816 bytes free
